@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Mon Jan 28 08:31:01 CET 2019
+2.base=D\:\\Descargas\\com.projectescicles.educem.skinscanner\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.path=lib/armeabi-v7a/libjingle_peerconnection_so.so
+2.baseType=DIRECTORY
+3.base=D\:\\Descargas\\com.projectescicles.educem.skinscanner\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=NATIVE_RESOURCE
+1.path=lib/x86_64/libjingle_peerconnection_so.so
+4.base=D\:\\Descargas\\com.projectescicles.educem.skinscanner\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\170
+count=5
+2.path=lib/x86/libjingle_peerconnection_so.so
+4.set=DEX
+3.path=lib/arm64-v8a/libjingle_peerconnection_so.so
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+1.baseType=DIRECTORY
+0.base=D\:\\Descargas\\com.projectescicles.educem.skinscanner\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+1.base=D\:\\Descargas\\com.projectescicles.educem.skinscanner\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

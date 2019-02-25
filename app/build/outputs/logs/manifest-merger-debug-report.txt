@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b793380a1848f7fc476db2c7e221b2dd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f32d2135773653e126298f4ff8feceb2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e0e4eb0cd05907bcf2c9720984095de6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a01c79d817c1ba83b4b43726a7b3a970\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2aaef8968b23b37aa7d08b7802b13f07\AndroidManifest.xml:17:1-28:12
+MERGED from [org.webrtc:google-webrtc:1.0.26131] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.26131.aar\aa1adedb29680e495abd98000f8423f6\AndroidManifest.xml:11:1-14:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7153fcd7b37794885bfb4e67e37432ed\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0690cf929016bfe351db4635cd667743\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f628d07248940a8b7606a1922efd2988\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fab9fb482b0c2f807de6b1bd94dbfac7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a8e7690a75730791ccab2b326de20a1a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f183caba62461910ce6520ddba5d7373\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fea6bf51633aa3843bfd52999f471bb4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6ae6c4a04bf8e8a79ff2346ebe7f9694\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc934de97776c3cc9cd65aecad9a01a1\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b793380a1848f7fc476db2c7e221b2dd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b793380a1848f7fc476db2c7e221b2dd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f32d2135773653e126298f4ff8feceb2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f32d2135773653e126298f4ff8feceb2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e0e4eb0cd05907bcf2c9720984095de6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e0e4eb0cd05907bcf2c9720984095de6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a01c79d817c1ba83b4b43726a7b3a970\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a01c79d817c1ba83b4b43726a7b3a970\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2aaef8968b23b37aa7d08b7802b13f07\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2aaef8968b23b37aa7d08b7802b13f07\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7153fcd7b37794885bfb4e67e37432ed\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7153fcd7b37794885bfb4e67e37432ed\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0690cf929016bfe351db4635cd667743\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0690cf929016bfe351db4635cd667743\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f628d07248940a8b7606a1922efd2988\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f628d07248940a8b7606a1922efd2988\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fab9fb482b0c2f807de6b1bd94dbfac7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fab9fb482b0c2f807de6b1bd94dbfac7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a8e7690a75730791ccab2b326de20a1a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a8e7690a75730791ccab2b326de20a1a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f183caba62461910ce6520ddba5d7373\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f183caba62461910ce6520ddba5d7373\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fea6bf51633aa3843bfd52999f471bb4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fea6bf51633aa3843bfd52999f471bb4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6ae6c4a04bf8e8a79ff2346ebe7f9694\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6ae6c4a04bf8e8a79ff2346ebe7f9694\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc934de97776c3cc9cd65aecad9a01a1\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc934de97776c3cc9cd65aecad9a01a1\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:11:9-65
+activity#com.projectescicles.educem.skinscanner.MainActivity
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:13:13-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:18:27-74
+uses-permission#android.permission.INTERNET
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.CAMERA2
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:25:22-63
+uses-feature#android.hardware.camera
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:26:5-60
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:26:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:27:5-70
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:27:19-67
+uses-feature#android.hardware.camera2.full
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:28:19-63
+uses-feature#android.hardware.camera2.autofocus
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:29:5-71
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:29:19-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:30:22-77
+uses-permission#android.webkit.PermissionRequest
+ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml:31:22-69
+uses-sdk
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b793380a1848f7fc476db2c7e221b2dd\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b793380a1848f7fc476db2c7e221b2dd\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f32d2135773653e126298f4ff8feceb2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f32d2135773653e126298f4ff8feceb2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e0e4eb0cd05907bcf2c9720984095de6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e0e4eb0cd05907bcf2c9720984095de6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a01c79d817c1ba83b4b43726a7b3a970\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a01c79d817c1ba83b4b43726a7b3a970\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2aaef8968b23b37aa7d08b7802b13f07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2aaef8968b23b37aa7d08b7802b13f07\AndroidManifest.xml:20:5-44
+MERGED from [org.webrtc:google-webrtc:1.0.26131] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.26131.aar\aa1adedb29680e495abd98000f8423f6\AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.26131] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.26131.aar\aa1adedb29680e495abd98000f8423f6\AndroidManifest.xml:13:3-72
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7153fcd7b37794885bfb4e67e37432ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7153fcd7b37794885bfb4e67e37432ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0690cf929016bfe351db4635cd667743\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0690cf929016bfe351db4635cd667743\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f628d07248940a8b7606a1922efd2988\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f628d07248940a8b7606a1922efd2988\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fab9fb482b0c2f807de6b1bd94dbfac7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fab9fb482b0c2f807de6b1bd94dbfac7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a8e7690a75730791ccab2b326de20a1a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a8e7690a75730791ccab2b326de20a1a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f183caba62461910ce6520ddba5d7373\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f183caba62461910ce6520ddba5d7373\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fea6bf51633aa3843bfd52999f471bb4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fea6bf51633aa3843bfd52999f471bb4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6ae6c4a04bf8e8a79ff2346ebe7f9694\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6ae6c4a04bf8e8a79ff2346ebe7f9694\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc934de97776c3cc9cd65aecad9a01a1\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc934de97776c3cc9cd65aecad9a01a1\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b793380a1848f7fc476db2c7e221b2dd\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+		ADDED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Descargas\com.projectescicles.educem.skinscanner\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b793380a1848f7fc476db2c7e221b2dd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f32d2135773653e126298f4ff8feceb2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f32d2135773653e126298f4ff8feceb2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a01c79d817c1ba83b4b43726a7b3a970\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a01c79d817c1ba83b4b43726a7b3a970\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2aaef8968b23b37aa7d08b7802b13f07\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2aaef8968b23b37aa7d08b7802b13f07\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7153fcd7b37794885bfb4e67e37432ed\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7153fcd7b37794885bfb4e67e37432ed\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0690cf929016bfe351db4635cd667743\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0690cf929016bfe351db4635cd667743\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f628d07248940a8b7606a1922efd2988\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f628d07248940a8b7606a1922efd2988\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fab9fb482b0c2f807de6b1bd94dbfac7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\fab9fb482b0c2f807de6b1bd94dbfac7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a8e7690a75730791ccab2b326de20a1a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\a8e7690a75730791ccab2b326de20a1a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f183caba62461910ce6520ddba5d7373\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f183caba62461910ce6520ddba5d7373\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fea6bf51633aa3843bfd52999f471bb4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fea6bf51633aa3843bfd52999f471bb4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6ae6c4a04bf8e8a79ff2346ebe7f9694\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6ae6c4a04bf8e8a79ff2346ebe7f9694\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b793380a1848f7fc476db2c7e221b2dd\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b793380a1848f7fc476db2c7e221b2dd\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc934de97776c3cc9cd65aecad9a01a1\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc934de97776c3cc9cd65aecad9a01a1\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ivan Soriano\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc934de97776c3cc9cd65aecad9a01a1\AndroidManifest.xml:26:13-58
